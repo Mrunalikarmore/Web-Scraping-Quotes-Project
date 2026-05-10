@@ -1,7 +1,5 @@
-# Web-Scraping and Analysis Project
-
-
-### 📌  Website Scraped: quotes.toscrape.com
+# 🌐 Web Scraping & Analysis Project  
+### 📌 Website Scraped: quotes.toscrape.com
 
 ---
 
@@ -30,7 +28,7 @@ The project automatically scrapes **100 quotes from 10 webpages**, stores the ex
 |---|---|
 | `requests` | Fetch webpage HTML |
 | `BeautifulSoup` | Parse and extract HTML data |
-| `pandas` |
+| `pandas` | Data cleaning & analysis |
 | `matplotlib` | Data visualization |
 | `seaborn` | Styled statistical charts |
 | `Jupyter Notebook` | Interactive development |
@@ -38,7 +36,7 @@ The project automatically scrapes **100 quotes from 10 webpages**, stores the ex
 ---
 
 
----
+
 
 # 🌍 Website Scraped
 
@@ -134,8 +132,8 @@ Through this project, I learned:
 - Data visualization
 - Working with structured datasets
 
----
 
+```
 
 
 # 📌 Future Improvements
@@ -166,3 +164,4 @@ It helped strengthen practical skills in:
 Give this repository a ⭐ on GitHub!
 
 ---
+
